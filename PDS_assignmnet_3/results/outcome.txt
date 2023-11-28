@@ -1,0 +1,5 @@
+1. The highest value in the population is greater than the highest value in the sample, and the average value in the population is also higher than the average value in the sample.
+
+2. When looking at the BMI at the 98th percentile, the percentage for the entire population is higher than the percentage for the sample.
+
+3. When comparing the average and standard deviation of the entire population with those of the bootstrap sample, there's only a slight variation. Additionally, there's a slight difference in the percentile values between the population and the bootstrap sample.
